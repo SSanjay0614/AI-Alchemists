@@ -1,6 +1,6 @@
-Problem Statement:
+# Problem Statement:
 
-Streamlining Drug Discovery with AI and Machine Learning
+## Streamlining Drug Discovery with AI and Machine Learning
 
 The process of discovering new drugs is incredibly long and expensive. Scientists spend years testing different molecules to find out which ones can be effective treatments for diseases. This involves several steps that often rely on trial and error:
 
@@ -14,11 +14,11 @@ Molecular Docking: Researchers create models of the target protein and manually 
 
 Overall, this traditional approach can take over a decade and cost billions of dollars, with many candidates failing late in the process due to issues that could have been identified earlier.
 
-Solution:
+## Solution:
 
 There is a need for a better way to discover drugs that reduces the time and costs involved. By using artificial intelligence (AI) and machine learning (ML), we can create a solution that automates and improves these processes.
 
-Goals:
+## Goals:
 
 Automate Target Identification: Use AI to quickly and accurately identify biological targets relevant to specific diseases, speeding up the initial phase of drug discovery.
 
@@ -30,7 +30,7 @@ Enhance Docking Simulations: Use AI to automate the creation of receptor protein
 
 By leveraging AI and ML, we aim to make drug discovery faster, cheaper, and more efficient, ultimately helping to bring new treatments to patients sooner.
 
-Whose problem does it solve?
+## Whose problem does it solve?
 
 The long and expensive process of discovering new drugs affects many people, including pharmaceutical companies, researchers, patients, and healthcare systems. Companies spend a lot of money on research, but many drug candidates fail, leading to financial losses. 
 
